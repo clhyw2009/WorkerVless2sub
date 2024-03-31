@@ -1,38 +1,4 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.219.193.202,443,true,SIN,Asia Pacific,Singapore,49 ms,26389 kB/s
-146.56.153.221,443,true,NRT,Asia Pacific,Tokyo,90 ms,25168 kB/s
-130.61.23.77,443,true,FRA,Europe,Frankfurt,189 ms,11878 kB/s
-192.9.138.241,443,true,SJC,North America,San Jose,173 ms,11534 kB/s
-140.238.63.187,443,true,NRT,Asia Pacific,Tokyo,190 ms,10499 kB/s
-192.18.141.9,443,true,SJC,North America,San Jose,172 ms,9407 kB/s
-152.67.218.88,443,true,ICN,Asia Pacific,Seoul,206 ms,8821 kB/s
-129.150.37.58,443,true,SIN,Asia Pacific,Singapore,210 ms,8581 kB/s
-8.219.159.232,443,true,SIN,Asia Pacific,Singapore,62 ms,7501 kB/s
-129.153.165.237,443,true,IAD,North America,Ashburn,223 ms,6809 kB/s
-193.122.197.111,443,true,IAD,North America,Ashburn,248 ms,6590 kB/s
-129.146.46.164,443,true,LAX,North America,Los Angeles,244 ms,6392 kB/s
-146.56.38.45,443,true,NRT,Asia Pacific,Tokyo,58 ms,5035 kB/s
-152.70.234.188,443,true,NRT,Asia Pacific,Tokyo,81 ms,4896 kB/s
-140.238.213.209,443,true,MXP,Europe,Milan,170 ms,4635 kB/s
-141.144.232.159,443,true,FRA,Europe,Frankfurt,166 ms,4617 kB/s
-155.248.202.141,443,true,SJC,North America,San Jose,160 ms,4503 kB/s
-168.138.46.67,443,true,KIX,Asia Pacific,Osaka,195 ms,4281 kB/s
-8.222.157.86,443,true,SIN,Asia Pacific,Singapore,31 ms,4235 kB/s
-158.180.231.216,443,true,MRS,Europe,Marseille,198 ms,4209 kB/s
-138.2.124.21,443,true,ICN,Asia Pacific,Seoul,204 ms,4125 kB/s
-192.18.134.251,443,true,SJC,North America,San Jose,161 ms,3913 kB/s
-129.159.241.172,443,true,FRA,Europe,Frankfurt,182 ms,3852 kB/s
-138.2.225.190,443,true,SJC,North America,San Jose,170 ms,3834 kB/s
-8.210.9.129,443,true,HKG,Asia Pacific,Hong Kong,19 ms,3686 kB/s
-138.2.36.216,443,true,HKG,Asia Pacific,Hong Kong,185 ms,3579 kB/s
-129.153.213.8,443,true,LAX,North America,Los Angeles,207 ms,3311 kB/s
-64.110.104.30,443,true,KIX,Asia Pacific,Osaka,190 ms,3264 kB/s
-138.2.134.241,443,true,FRA,Europe,Frankfurt,187 ms,3189 kB/s
-168.138.70.29,443,true,YYZ,North America,Toronto,266 ms,3023 kB/s
-140.83.53.190,443,true,KIX,Asia Pacific,Osaka,190 ms,2727 kB/s
-141.147.178.154,443,true,NRT,Asia Pacific,Tokyo,174 ms,2712 kB/s
-152.69.224.15,443,true,ICN,Asia Pacific,Seoul,207 ms,2706 kB/s
-146.56.151.2,443,true,ICN,Asia Pacific,Seoul,75 ms,926 kB/s
 141.147.178.135,8443,TRUE,HKG,Asia Pacific,Hong Kong,246 ms,39667 kB/s
 138.2.104.2,8443,TRUE,SIN,Asia Pacific,Singapore,50 ms,32772 kB/s
 158.101.137.96,8443,TRUE,NRT,Asia Pacific,Tokyo,186 ms,25028 kB/s
