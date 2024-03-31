@@ -166,3 +166,14 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 193.122.197.111,443,TRUE,IAD,North America,Ashburn,250 ms,11000 kb/s
 168.138.70.29,443,TRUE,YYZ,North America,Toronto,257 ms,11000 kb/s
 193.123.64.217,443,TRUE,CDG,Europe,Paris,263 ms,11000 kb/s
+8.217.159.210,8880,FALSE,HKG,Asia Pacific,Hong Kong,12 ms,100000 kb/s
+8.217.75.193,8880,FALSE,HKG,Asia Pacific,Hong Kong,15 ms,100000 kb/s
+47.243.179.249,8880,FALSE,HKG,Asia Pacific,Hong Kong,15 ms,100000 kb/s
+8.218.2.181,8880,FALSE,HKG,Asia Pacific,Hong Kong,16 ms,100000 kb/s
+47.243.173.187,8880,FALSE,HKG,Asia Pacific,Hong Kong,16 ms,100000 kb/s
+8.210.9.129,8880,FALSE,HKG,Asia Pacific,Hong Kong,17 ms,100000 kb/s
+8.218.243.95,8880,FALSE,HKG,Asia Pacific,Hong Kong,20 ms,100000 kb/s
+47.243.42.219,8880,FALSE,HKG,Asia Pacific,Hong Kong,23 ms,100000 kb/s
+8.217.248.220,8880,FALSE,HKG,Asia Pacific,Hong Kong,25 ms,100000 kb/s
+8.219.51.49,8880,FALSE,SIN,Asia Pacific,Singapore,30 ms,100000 kb/s
+8.222.162.45,8880,FALSE,SIN,Asia Pacific,Singapore,35 ms,100000 kb/s
