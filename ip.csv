@@ -1,14 +1,15 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.219.251.207	2083	TRUE	SIN	Asia Pacific	Singapore	45 ms	38 kB/s
-8.219.216.234	2083	TRUE	SIN	Asia Pacific	Singapore	48 ms	35 kB/s
-8.219.239.79	2083	TRUE	SIN	Asia Pacific	Singapore	48 ms	33 kB/s
-8.219.56.244	2083	TRUE	SIN	Asia Pacific	Singapore	48 ms	33 kB/s
-8.222.171.236	2083	TRUE	SIN	Asia Pacific	Singapore	54 ms	33 kB/s
-8.219.210.214	2083	TRUE	SIN	Asia Pacific	Singapore	54 ms	32 kB/s
-8.222.145.43	2083	TRUE	SIN	Asia Pacific	Singapore	51 ms	32 kB/s
-8.222.156.205	2083	TRUE	SIN	Asia Pacific	Singapore	60 ms	29 kB/s
-8.219.123.11	2083	TRUE	SIN	Asia Pacific	Singapore	55 ms	28 kB/s
-8.222.212.255	2083	TRUE	SIN	Asia Pacific	Singapore	56 ms	28 kB/s
-8.222.199.55	2083	TRUE	SIN	Asia Pacific	Singapore	57 ms	28 kB/s
-8.219.110.41	2083	TRUE	SIN	Asia Pacific	Singapore	53 ms	26 kB/s
-47.245.59.167	2083	TRUE	NRT	Asia Pacific	Tokyo	63 ms	25 kB/s
+8.219.251.207,2083,TRUE,SIN,Asia Pacific,Singapore,45 ms,38 kB/s
+8.219.216.234,2083,TRUE,SIN,Asia Pacific,Singapore,48 ms,35 kB/s
+8.219.239.79,2083,TRUE,SIN,Asia Pacific,Singapore,48 ms,33 kB/s
+8.219.56.244,2083,TRUE,SIN,Asia Pacific,Singapore,48 ms,33 kB/s
+8.222.171.236,2083,TRUE,SIN,Asia Pacific,Singapore,54 ms,33 kB/s
+8.219.210.214,2083,TRUE,SIN,Asia Pacific,Singapore,54 ms,32 kB/s
+8.222.145.43,2083,TRUE,SIN,Asia Pacific,Singapore,51 ms,32 kB/s
+8.222.156.205,2083,TRUE,SIN,Asia Pacific,Singapore,60 ms,29 kB/s
+8.219.123.11,2083,TRUE,SIN,Asia Pacific,Singapore,55 ms,28 kB/s
+8.222.212.255,2083,TRUE,SIN,Asia Pacific,Singapore,56 ms,28 kB/s
+8.222.199.55,2083,TRUE,SIN,Asia Pacific,Singapore,57 ms,28 kB/s
+8.219.110.41,2083,TRUE,SIN,Asia Pacific,Singapore,53 ms,26 kB/s
+47.245.59.167,2083,TRUE,NRT,Asia Pacific,Tokyo,63 ms,25 kB/s
+47.74.6.55,2083,TRUE,NRT,Asia Pacific,Tokyo,80 ms,19 kB/s
