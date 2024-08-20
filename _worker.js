@@ -30,7 +30,7 @@ let addressesnotlsapi = [
 
 let DLS = 10;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 	'https://bihai.cf/CFIP/CUCC/standard.csv', //碧海。
 ];
 
