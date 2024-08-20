@@ -5,4 +5,4 @@
 43.154.96.33:443#Hong Kong-AS132203-Tencent
 193.111.30.47:2053#Japan-AS3258-Xtom
 47.243.206.150:2096#Hong Kong-AS45102-alibaba
-47.76.218.163#Hong Kong-AS45102-alibaba
+47.76.218.163:443#Hong Kong-AS45102-alibaba
